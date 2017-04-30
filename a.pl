@@ -1,6 +1,6 @@
 #!/usr/bin/perl -U
 #
-# usage : perl mass.pl Results.txt
+# usage : perl a.pl Results.txt
 # Tools By : DeMoN
 # Site : Guardiran.org
 # Tel : mrar1yan
