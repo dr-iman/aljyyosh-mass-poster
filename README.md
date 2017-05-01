@@ -2,7 +2,7 @@
 
 Perl Script Aljyyosh Mass poster
 
-Usage : perl mass.pl Results.txt
+Usage : perl a.pl Results.txt
 
  Tools By : DeMoN
  
