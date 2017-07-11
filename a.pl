@@ -3,7 +3,7 @@
 # usage : perl a.pl Results.txt
 # Tools By : DeMoN
 # Site : Guardiran.org
-# Tel : mrar1yan
+# Tel : DarkCod3r
 
 use HTTP::Request;
 use LWP::UserAgent;
@@ -40,7 +40,7 @@ print "
  [-][-][-][-][-][-][-][-][-][-]                                                
  [-] Coded By : DeMoN	    [-]
  [-] Site : Guardiran.org   [-]
- [-] Tel : mrar1yan         [-]
+ [-] Tel : DarkCod3r        [-]
  [-][-][-][-][-][-][-][-][-][-]
  
 [*] usage : perl a.pl Results.txt
